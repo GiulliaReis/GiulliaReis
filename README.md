@@ -46,6 +46,8 @@ O projeto apresenta propostas alternativas de design para duas plataformas digit
 **📌 Tipo:** Projeto acadêmico de prototipagem e redesign.
 
 🔗 [Visualizar projeto no Canva](https://canva.link/g149silovbg4mvv)
+🔗 [Visualizar projeto completo](https://github.com/GiulliaReis/redesign-whatsapp-youtube)
+
 
 ---
 
