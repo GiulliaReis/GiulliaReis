@@ -9,6 +9,8 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,6 +29,37 @@ Projeto de modelagem de banco de dados para gerenciamento de clientes, pets, con
 
 ### 💻 Programação Orientada a Objetos — C#
 Atividades práticas envolvendo classes, objetos, herança, encapsulamento, abstração e interfaces.
+
+
+## 🎨 Projetos de UI/UX e Prototipagem
+
+### 📱 Redesign de Interfaces — WhatsApp e YouTube
+
+Projeto acadêmico de reformulação visual das interfaces do WhatsApp e YouTube, desenvolvido utilizando o Canva.
+
+O projeto apresenta propostas alternativas de design para duas plataformas digitais, explorando conceitos de organização visual, usabilidade e experiência do usuário (UI/UX).
+
+**🛠️ Ferramenta utilizada:** Canva
+
+**🎯 Objetivo:** Explorar novas possibilidades de apresentação e organização de interfaces digitais.
+
+**📌 Tipo:** Projeto acadêmico de prototipagem e redesign.
+
+🔗 [Visualizar projeto no Canva](https://canva.link/g149silovbg4mvv)
+
+---
+
+### 🏢 Escritório Virtual — Em Desenvolvimento
+
+Sistema de gerenciamento e reservas de salas desenvolvido com Python e Streamlit.
+
+O projeto envolve a criação de interfaces e a implementação de funcionalidades para gerenciamento de ambientes.
+
+**🛠️ Tecnologias:** Python, Streamlit e banco de dados.
+
+**🚧 Status:** Em desenvolvimento.
+
+
 
 ## 📚 Atualmente estudando
 - Desenvolvimento de software
