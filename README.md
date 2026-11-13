@@ -24,11 +24,21 @@
 ### 🏢 Escritório Virtual
 Sistema de gerenciamento e reservas de salas desenvolvido com Python, Streamlit e banco de dados.
 
-### 🐾 Pet Shop — MySQL
-Projeto de modelagem de banco de dados para gerenciamento de clientes, pets, consultas, serviços e produtos.
-
 ### 💻 Programação Orientada a Objetos — C#
 Atividades práticas envolvendo classes, objetos, herança, encapsulamento, abstração e interfaces.
+
+
+### 🐾 Pet Shop — Modelagem de Banco de Dados
+
+Projeto acadêmico desenvolvido na disciplina de Banco de Dados do curso de Sistemas de Informação.
+
+O projeto envolve modelagem de dados, criação de tabelas e definição de relacionamentos para um sistema de gerenciamento de Pet Shop.
+
+**🛠️ Tecnologias:** MySQL e MySQL Workbench
+
+**📂 Conteúdo:** Script SQL, modelo do banco de dados e diagrama de relacionamentos.
+
+🔗 [Visualizar projeto no GitHub](https://github.com/GiulliaReis/petshop-mysql)
 
 
 ## 🎨 Projetos de UI/UX e Prototipagem
