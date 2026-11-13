@@ -34,10 +34,6 @@ Atividades práticas envolvendo classes, objetos, herança, encapsulamento, abst
 - Banco de Dados
 - Boas práticas de programação
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=GiulliaReis&show_icons=true&theme=tokyonight)
-
 ## 📫 Contato
 
 💼 LinkedIn: [Meu LinkedIn](
